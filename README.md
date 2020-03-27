@@ -2,6 +2,8 @@ _JavaScript - HTML5 - CSS3_
 
 # Brandom
 
+![presentation banner](./readme-banner.png)
+
 School project made for [OpenClassrooms](https://openclassrooms.com/) front-end app developer course.
 
 **_Générateur de "citations" :_** Génère des idées aléatoires de brief pour t’entraîner au développement et au design.
