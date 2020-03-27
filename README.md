@@ -1,3 +1,5 @@
+_JavaScript - HTML5 - CSS3_
+
 # Brandom
 
 School project made for [OpenClassrooms](https://openclassrooms.com/) front-end app developer course.
@@ -8,7 +10,9 @@ School project made for [OpenClassrooms](https://openclassrooms.com/) front-end 
 
 **_"Quotes" generator :_** Generate random briefs to train your design and programming skills.
 
----
+## Instructions
+
+Just open **index.html** in your favorite browser.
 
 ## P5 : Brief
 
