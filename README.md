@@ -4,7 +4,7 @@ _JavaScript - HTML5 - CSS3_
 
 ![presentation banner](./readme-banner.png)
 
-Online version here : [Brandom](https://brandom.danly.co/)
+[Online version](https://brandom.danly.co/)
 
 School project made for [OpenClassrooms](https://openclassrooms.com/) front-end app developer course.
 
